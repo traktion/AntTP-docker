@@ -1,3 +1,3 @@
 #!/bin/sh
 
-anttp
+anttp -l 0.0.0.0:8080
