@@ -1,8 +1,8 @@
 # Build SafeNetwork Docker container (inspired by DeusNexus image)
 FROM alpine:3.14
-LABEL version="0.24.19"
+LABEL version="0.25.0"
 LABEL maintainer="Traktion"
-LABEL release-date="2026-02-11"
+LABEL release-date="2026-02-15"
 
 # Update and install dependencies
 RUN apk update
